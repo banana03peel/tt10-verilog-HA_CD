@@ -13,8 +13,8 @@ This is a half adder which, you obviously know, adds two bit binary values.
 
 ## How to test
 
-Explain how to use your project
+Test using fpga if possible
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Fpga and other comp
